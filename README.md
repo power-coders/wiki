@@ -1,4 +1,4 @@
-# powercoders wiki
+# [powercoders wiki](https://github.com/power-coders/wiki/wiki)
 
 http://www.powercoders.org
 
